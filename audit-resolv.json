@@ -1,0 +1,20 @@
+{
+  "786|00unidentified>metro>jest-haste-map>micromatch>braces": {
+    "ignore": 1
+  },
+  "786|00unidentified>metro>metro-cache>metro-core>jest-haste-map>micromatch>braces": {
+    "ignore": 1
+  },
+  "786|00unidentified>metro>metro-config>metro-cache>metro-core>jest-haste-map>micromatch>braces": {
+    "ignore": 1
+  },
+  "786|00unidentified>metro>metro-config>metro-core>jest-haste-map>micromatch>braces": {
+    "ignore": 1
+  },
+  "786|00unidentified>metro>metro-core>jest-haste-map>micromatch>braces": {
+    "ignore": 1
+  },
+  "786|00unidentified>metro-core>jest-haste-map>micromatch>braces": {
+    "ignore": 1
+  }
+}
